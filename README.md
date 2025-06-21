@@ -28,10 +28,10 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="60" height="60"/></br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="80" height="80"/></br>
   <img src="https://skillicons.dev/icons?i=django,angular,dotnet" /></br>
   <img src="https://skillicons.dev/icons?i=aws,mysql,postgresql,git" />
-  <img src="https://cdn.iconscout.com/icon/free/png-256/microsoft-sql-server-1-1175002.png" alt="SSMS" width="60" height="60"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/microsoft-sql-server-1-1175002.png" alt="SSMS" width="100" height="100"/>
 </p>
 
 ---
