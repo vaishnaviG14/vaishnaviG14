@@ -5,7 +5,7 @@
 
 ## Hi there 👋
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=#17202a&duration=4000&lines=I'm+Vaishnavi!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=000000&duration=4000&lines=I'm+Vaishnavi!;" />
 </h1>
 
 ### I am a Software Engineer. I enjoy building efficient systems, working with REST APIs, and creating clean, user-friendly web applications.
