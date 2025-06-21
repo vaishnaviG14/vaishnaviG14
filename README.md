@@ -27,9 +27,13 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,csharp,javascript,typescript,sql,html,css" />
-  <img src="https://skillicons.dev/icons?i=django,angular,dotnet" />
-  <img src="https://skillicons.dev/icons?i=aws,ssms,mysql,postgresql,git" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/sql.svg" alt="SQL" width="40" height="40"/>
+  </br>
+  <img src="https://skillicons.dev/icons?i=django,angular,dotnet" /></br>
+  <img src="https://skillicons.dev/icons?i=aws,mysql,postgresql,git" />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/microsoft-sql-server-1-1175002.png" alt="SSMS" width="40" height="40"/>
 </p>
 
 ---
